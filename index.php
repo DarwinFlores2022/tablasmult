@@ -15,7 +15,7 @@
         <div class="alert alert-primary" role="alert">
             TABLAS!
         </div>
-        <form action="ejemplo.php" method="POST">
+        <form action="index.php" method="POST">
             Numero inicial:
             <input type="number" class="form-control" name="num1"><br>
             Numero Final:
